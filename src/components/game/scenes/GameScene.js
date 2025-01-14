@@ -324,6 +324,14 @@ export default class GameScene extends Scene {
       this.physics.add.collider(this.heroSprite, layer);
     }
 
+    // logo
+    const rpgoLogo = this.physics.add.sprite(0, 0, "rpggo_logo").setOrigin(0, 0);
+    rpgoLogo.displayWidth = 200;
+    rpgoLogo.displayHeight = 56;
+    rpgoLogo.x = 400;
+    rpgoLogo.y = 150;
+
+
     // Npcs
     const npcsKeys = [];
     const dataLayer = map.getObjectLayer("actions");

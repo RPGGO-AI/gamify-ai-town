@@ -16,6 +16,7 @@ const npc03Json = '/assets/sprites/atlas/npc_03.json';
 const npc04Json = '/assets/sprites/atlas/npc_04.json';
 
 // Images
+const rpggoLogo = '/assets/images/logo.png';
 const heroImage = '/assets/sprites/atlas/hero.png';
 const slimeImage = '/assets/sprites/atlas/slime.png';
 const heartImage = '/assets/sprites/atlas/heart.png';
@@ -152,6 +153,7 @@ export default class BootScene extends Scene {
         this.load.image('heart_container', heartContainerImage);
         this.load.image('sword', swordImage);
         this.load.image('push', pushImage);
+        this.load.image('rpggo_logo', rpggoLogo);
     }
 
     create() {
