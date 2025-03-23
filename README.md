@@ -27,7 +27,7 @@ https://github.com/user-attachments/assets/9036bcc1-d4d7-466d-ae95-43a10a265d73
 
 [See the full hd in youtube](https://youtu.be/caO80FbOuSc)
 
-[Click and Play](https://gamify-ai-town.vercel.app/)
+[Click and Play](https://rpggo-gamify-ai-town.vercel.app/)
 
 <br>
 
